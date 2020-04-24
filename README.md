@@ -63,11 +63,27 @@
     </style>
     
     <body>
+    
     <h1 id="WebPage">My  Articles</h1>
     <p id="warning"><em>This webpage might have disturbing  content.</em></p>
-   
         <div class="japan-article">
-            <p class="japan"><em>Published on 21 April 2020</em></p>
+        <p> <em>Published on April 24.2020</em> </p>
+             <h1 id="zanetti-mystery" class="mystery"> Mystery of the Week</h1>  
+             <h2 class="japan"> The Sodder Family Fire</h2>
+             <p class="japan"> On Christmas Eve 1945, a tragedy struck the Sodder family. There house in Fayetteville West Virgina caught on fire.
+                 They had ten children, wich five of them went missing in 
+                 the fire. On the next day the missing childrens bodies could not be found from rubble, not even their bones. The fire chief said that the tempetures of the fire were so high that they could burn even bones in to ashes. But a near by crematorium told, that despite the high tempetures the fire would still leave human bones intact.<br><br>When the fire started two of the families boys and their father went to get the ladders, but they were not there where they were supposed to be. Their nabor tried to call the fire department, but the telephone wouldn't work. Later it was noticted that their lines were cut. Finally the fire department arrived, but it was already 7 a.m. december 25th. One of the families daughters found from the rubble a rubber object, wich their father thought it was a napalm bomb.<br><br>Months before the fire a man had came to the Sodder families house and pointed out to the families father, that the fuse box would cause some day a fire. The families father thought it was weird, because the electric company checked the joints a few days ago, and told that they were in great condition. Another man tried to sell life insurance, but when the families father refused, he got mad and said that their house would evaporate in to smoke. A few days before the fire the families oldest sons saw a man watching at the younger
+children arrive from school.<br><br> Some believe that the missing children were still alive after the fire. In 1968 the families mother got a envelope, that had a picture inside of a young man, that looked like one of her sons, who disappeared in the fire. This is not the only evidence that the missing children would still be alive after the fire. A women claimed that she saw them in a car with four adults, that spoke Italian
+and didn't let strangers talk to them. Nobody is sure what happened to the five missing Sodder children. Were they kidnapped or did they die in the fire?<br><br><em>Source: <a href="https://fi.wikipedia.org/wiki/Sodderin_lasten_katoaminen">Wikipedia</a> </em>
+             </p>
+        </div>
+        <div class="japan-article">
+        <h4 class="japan"> (in finnish)</h4>
+        <h1 class="japan"> Kaikki Islannista</h1>
+        <h2 class="japan"> Luonto ja eläimet</h2>
+        </div>
+        <div class="japan-article">
+            <p class="japan"><em>Published on April 21.2020</em></p>
             <h1 class="japan">The Incedent at Dyatlov Pass</h1>
             <img id="dyatlov-pass" class="japan" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Dyatlov_Pass_incident_02.jpg" width="225">
             <p class="japan">
@@ -92,7 +108,7 @@
         </div>
         
         <div id="mystery-of-week" class="japan-article">
-        <p class="japan"><em>Published on 18 April 2020</em></p>
+        <p class="japan"><em>Published on April 18.2020</em></p>
        <h1 id="zanetti-mystery" class="mystery"> Mystery of the Week</h1>
        
        <div class="ghost-train zanetti"> <h2 class="japan"> The Zanetti Ghost Train</h2>
@@ -107,7 +123,7 @@
       
        
        <div class="japan-article">
-       <p class="japan"><em>Published on 16 April 2020</em></p>
+       <p class="japan"><em>Published on April 16.2020</em></p>
            <h1 id="earthquake-list">Top 5 most powerful Earthquakes in History</h1>
     <div id="earthquake-picture"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg" width="300px"></div>
            <h3 class="japan"> 5. Kamchakta, Russia, 4 November 1952<br>
@@ -125,7 +141,7 @@
            </div>
        
         <div class="japan-article">
-       <p class="japan"><em>Published on 15 April 2020</em></p>
+       <p class="japan"><em>Published on April 15.2020</em></p>
            <h1 class="japan mystery">The missing town of Urkhammer</h1>
            <p class="japan">Urkhammer was a small town in Iowa. It was                  like any other small town, with buildings poping up now and then, the grass trimmed and maintained roads. But on one day in 1929 it vanished with it's citizens. It was seen first from the planes that flew over it. The pilots claimed that they saw over grown fields and abandoned buildings. It's unknown when Urkhammer was established or did it ever even exist. Reports kept coming of the missing town.<br>
            Some people claimed that they saw the town evaporating in to thin air and a driver who filled his tank there said that he realized that his tank wasn't filled and he drove back to Urkhammer. But the town was nowhere to be seen.<br>The story of the missing town of Urkhammer was forgotten after the stock market crash of 1929 happened, the start of the great depression.
@@ -133,7 +149,7 @@
        </div>
        
         <div class="japan-article">
-        <p class="japan"><em>Published on 14 April 2020</em></p>
+        <p class="japan"><em>Published on April 14.2020</em></p>
         <h1 class="japan" id="j">Travel to Japan</h1>
         <h2 class="japan">Facts about Japan</h2>
         <p class="japan">
