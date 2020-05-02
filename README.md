@@ -78,11 +78,6 @@ and didn't let strangers talk to them. Nobody is sure what happened to the five 
              </p>
         </div>
         <div class="japan-article">
-        <h4 class="japan"> (in finnish)</h4>
-        <h1 class="japan"> Kaikki Islannista</h1>
-        <h2 class="japan"> Luonto ja eläimet</h2>
-        </div>
-        <div class="japan-article">
             <p class="japan"><em>Published on April 21.2020</em></p>
             <h1 class="japan">The Incedent at Dyatlov Pass</h1>
             <img id="dyatlov-pass" class="japan" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Dyatlov_Pass_incident_02.jpg" width="225">
